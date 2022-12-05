@@ -1,5 +1,5 @@
 # cannonGame
-Progetto TPS thdread
+Progetto TPS thread
 
 Descrizione generale:
 
